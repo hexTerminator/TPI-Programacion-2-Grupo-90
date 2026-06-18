@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584205420 source:e:\codes\tpi programacion 2\main.cpp
+	<iostream>
+
+1781785542 source:e:\codes\tpi programacion 2\arcrol.cpp
+	<iostream>
+	<cstring>
+	"arcRol.h"
+	"roles.h"
+
+1781785542 e:\codes\tpi programacion 2\arcrol.h
+	"roles.h"
+
+1781785504 e:\codes\tpi programacion 2\roles.h
+	<string>
+
