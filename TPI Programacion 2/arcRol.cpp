@@ -102,3 +102,4 @@ void arcRoles::altaRegistro();
 void arcRoles::bajaRegistro();
 bool arcRoles::bajaFisica(int pos);
 */
+
