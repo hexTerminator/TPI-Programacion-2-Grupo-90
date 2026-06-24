@@ -4,6 +4,7 @@
 #include "arcRol.h"
 using namespace std;
 
+
 void Roles::setIdRol(int idRol){
     _idRol=idRol;
 }
