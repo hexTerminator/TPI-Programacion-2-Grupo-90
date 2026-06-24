@@ -7,7 +7,7 @@ private:
 public:
 
     arcRoles (bool vacio=false, const char* nombre="arcRoles.dat");
-
+    
     Roles leerRegistro(int pos);
     int contarRegistro();
     bool grabarRegistro(Roles obj);
